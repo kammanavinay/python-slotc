@@ -6,4 +6,4 @@ student = {
 
 print("Name:", student["name"])
 print("Age:", student["age"])
-print("Courses:", ", ".join(student["courses"]))
+print("Courses:", ", ".vinay(student["courses"]))
